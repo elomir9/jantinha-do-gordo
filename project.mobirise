@@ -1,0 +1,419 @@
+{
+  "settings": {
+    "currentPage": "template7.html",
+    "versionFirst": "2.11.1",
+    "versionPublish": "4.9.7",
+    "name": "Espetinho do Gordo",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/logo-teste-128x181.png",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "uniqCompNum": 0,
+    "noImageResize": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "template7.html": {
+      "settings": {
+        "main": true,
+        "title": "Greyscale Mobirise Template Free Download",
+        "meta_descr": "Free Mobirise Templates for Download- Mobirise Forum - Mobirise Help - ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a SPAN": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": "/*sets semitransparent color to sticky scroll navbar*/\n.mbr-navbar--stuck& .mbr-navbar__section {\nbackground: rgba(76, 139, 76, 0.6)!important;\n}\n.mbr-section__container {\ntext-align: center;\nwidth: 100%;\n}\n",
+          "_anchor": "ext_menu-165",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-teste-90x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "classPrefix": "mdi-",
+              "name": "av-play-circle-fill",
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "linkInNewWindow": false,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobiriseforum.co.uk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">JANTINHADOGORDO.COM.BR</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#content5-166\"><span class=\"mdi-social-person-add mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#contacts3-7\"><span class=\"mdi-communication-email mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>CONTATO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#map1-9\">MAPS</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/CARDAPIO.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD CARDÁPIO</a></li>  "
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "20px"
+            },
+            "H1": {
+              "font-size": "84px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_customCSS": "h1, {\n    font-size: 50px;\n    font-size: 5.3vw;\n}\n",
+          "_anchor": "header4-164",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/355205-paq0qw-347-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "title": "JANTINHA DO GORDO",
+          "text": "<br>A sua melhor opção de jantinha de Brasília.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"template7.html#map1-9\" data-toolbar=\"-mbrBtnMove\">LOCALIZAÇÃO<br>&nbsp;<span class=\"mdi-file-file-download mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#c1c1c1",
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            ".mbr-article DIV": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_name": "content5",
+          "_customCSS": "",
+          "_anchor": "content5-166",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/downloads-bg-1850x400-34.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "SOBRE",
+          "meta": "",
+          "text": "<p>Considerado o maior e melhor casa de espetos do Guará, com especialidade em espetinhos nobres, a Jantinha do Gordo possui um amplo e variado cardápio, com comidas e bebidas deliciosamente diferenciadas, feitas com ingredientes frescos da mais alta qualidade. Os pratos são bem servidos e toda essa excelência é apresentada a preços acessíveis.\r</p><p>\r</p><p>&nbsp;\rNossa unidade e ampla, possue decoração rústica e elegante, oferecendo aos nossos clientes um ambiente sofisticado e aconchegante.&nbsp;</p><p><br></p><p>Visite-nos e encante-se!</p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-article P": {
+              "color": "#c1c1c1"
+            },
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_name": "content5",
+          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
+          "_anchor": "content5-171",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/espetinho-ou-shashlik-grelhado-75924-3004-626x417.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "DEU VONTADE? EXPERIMENTE NOSSAS NOVIDADES.",
+          "meta": "",
+          "text": "CONHEÇA NOSSOS DELICIOSOS PRATOS",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">C A R D Á P I O&nbsp;</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "36px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#c1c1c1",
+              "font-size": "20px"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "25px",
+              "color": "#7ac673"
+            },
+            ".btn": {
+              "font-size": "12px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_name": "content5",
+          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
+          "_anchor": "content5-6",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "SIGA-NOS NAS REDES SOCIAIS",
+          "meta": "A Jantinha do Gordo também está presente nas redes sociais para estar cada vez mais próximo a você.",
+          "text": "<p>contato@jatinhadogordo.com.br</p>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://mobiriseforum.co.uk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-action-thumb-up mbr-iconfont mbr-iconfont-btn\"></span>F A C E B O O K&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://mobiriseforum.co.uk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I N S T A G R A M &nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://mobiriseforum.co.uk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-action-thumb-up mbr-iconfont mbr-iconfont-btn\"></span>G O O G L E +&nbsp;</a>"
+        },
+        {
+          "text": "The Empire State Building was designed by William F. Lamb from the architectural firm Shreve, Lamb and Harmon.",
+          "_name": "map1",
+          "_customCSS": ".mbr-google-map {\n    -webkit-filter: grayscale(100%);\n       -moz-filter: grayscale(100%);\n        -ms-filter: grayscale(100%);\n         -o-filter: grayscale(100%);\n            filter: grayscale(100%);\n}",
+          "_anchor": "map1-9",
+          "_params": {
+            "googleMap": {
+              "address": "71010050\n",
+              "placeId": "ChIJncbPX70xWpMRBfaY0kPhnX4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "coord": [
+            51.5073509,
+            -0.12775829999998223
+          ]
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
+          "_anchor": "contacts3-7",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2987-2000x685.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text1": "<font color=\"#ffffff\"><b>ENDEREÇO:</b></font><br>Add your details here<br>\nCity, AA 99999<br><br>\n<strong>CONTATOS</strong><br>\nEmail: contato@jantinhadogordo.com.br<br>Whatsapp: (61) 9 8888 - 8888",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>#jantianhadogordo</li><li>#comerbem</li><li>#comerguara</li><li>#omelhordoguara</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTATO</a>"
+        },
+        {
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" style=\"background-color: rgb(0, 0, 0);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.900000000000006px; padding-bottom: 36.900000000000006px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"9\">2016 mobiriseforum.co.uk - stcdesigns.com - with thanks to startbootstrap.com</p>\n            </div>\n        </div>\n    </div>\n    <!-- BEGIN: Powered by Supercounters.com -->\n<left>{JS_CODE_0}{JS_CODE_1}<br><noscript>&amp;lt;a href=\"http://www.supercounters.com\"&amp;gt;Tumblr Hit Counter&amp;lt;/a&amp;gt;</noscript>\n</left>\n<!-- END: Powered by Supercounters.com -->\n\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" src=\"http://widget.supercounters.com/texthit.js\"></script>",
+            "<script type=\"text/javascript\">var sc_texthit_var = sc_texthit_var || [];sc_text_hit(1272020,\"V\",\"ffffff\");</script>"
+          ],
+          "_customCSS": "P {\n\tcolor: #41a85f;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "2019 jantinhadogordo.com.br",
+          "_anchor": "footer1-8"
+        }
+      ]
+    }
+  }
+}
