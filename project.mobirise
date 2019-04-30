@@ -90,7 +90,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobiriseforum.co.uk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">JANTINHADOGORDO.COM.BR</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://elomir9.github.io/jantinha-do-gordo/template7.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">JANTINHADOGORDO.COM.BR</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#content5-166\"><span class=\"mdi-social-person-add mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>SOBRE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#contacts3-7\"><span class=\"mdi-communication-email mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>CONTATO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#map1-9\">MAPS</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/CARDAPIO.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD CARDÁPIO</a></li>  "
         },
@@ -103,7 +103,7 @@
               "font-size": "20px"
             },
             "H1": {
-              "font-size": "84px",
+              "font-size": "48px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
