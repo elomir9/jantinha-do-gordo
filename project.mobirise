@@ -360,9 +360,9 @@
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>#jantianhadogordo</li><li>#comerbem</li><li>#comerguara</li><li>#omelhordoguara</li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "",
+            "action": "elomir9@hotmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigado por enviar sua mensagem, retornaremos em breve!"
             },
             "fields": {
               "name": {
@@ -382,7 +382,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Sua mensagem e muito importante."
               }
             }
           },
